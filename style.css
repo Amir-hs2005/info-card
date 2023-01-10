@@ -46,6 +46,8 @@ body{
     left: 30px;
     top: 30px;
     text-align: justify;
+    line-height: 33px;
+    font-weight: 600;
 }
 
 .card p{
